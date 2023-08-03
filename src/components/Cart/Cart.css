@@ -1,0 +1,28 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+    
+ }
+ .btn-choose{
+    display:grid;
+    
+ }
+ .btn-again{
+    border-radius: 8px 8px 8px 8px;;
+    background: #ef8c8c;
+    width: 60%; 
+    align-items: center;
+   
+    /* justify-content: center; */
+
+ }
+
+ .btn-choose-one{
+    width: 60%;
+    border-radius: 8px 8px 8px 8px;;
+    align-items: center;
+    margin-bottom: 10px;
+    background: #ef8c8c;
+
+ }
